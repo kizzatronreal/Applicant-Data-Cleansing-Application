@@ -5,7 +5,7 @@ Brief Description: Takes an "applicants" spreadsheet that represents people that
 
 # Key Features
     Regex Validation: Automatically validates Canadian postal codes and email formats to ensure data integrity.
-    Automated Sanitization: Cleanses raw spreadsheet data (Excel/CSV) to prepare it for database ingestion.
+    Automated Sanitization: Cleanses raw spreadsheet data (Excel) to prepare it for database ingestion.
     Error Reporting: Generates a log of invalid entries for manual review, preventing "bad data" from entering the system.
 
 # How To Run It
