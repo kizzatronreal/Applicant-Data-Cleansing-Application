@@ -1,7 +1,7 @@
 # Applicant Data Cleansing Application
 A Python-based automation tool designed to sanitize and validate applicant spreadsheets using Regular Expressions (Regex) and automated error logging.
 
-Brief Description: Takes an "applicants" spread sheet that represents people that have applied to a local COMP program beforehand and cleans the data so only the valid applicants appear. 
+Brief Description: Takes an "applicants" spreadsheet that represents people that have applied to a local COMP program beforehand and cleans the data so only the valid applicants appear. 
 
 # Key Features
     Regex Validation: Automatically validates Canadian postal codes and email formats to ensure data integrity.
